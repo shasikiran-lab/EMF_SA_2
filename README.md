@@ -1,6 +1,6 @@
 # Application of Poisson’s and Laplace’s Equations in Defence Technology
-## NAME: Baranikumar S
-## REG NO: 212224060038
+## NAME: shasikiran m
+## REG NO: 212224060247
 # Introduction
 
 Defence technology depends heavily on the behavior of electric fields, potential, charge distribution and heat flow. Whether it is a missile tracking a target, a radar scanning across terrain, a stealth aircraft avoiding detection, or a communication channel resisting jamming, all rely on precise mathematical modelling of electromagnetic and thermal fields.
