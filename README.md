@@ -196,9 +196,9 @@ As India advances toward Atmanirbhar Bharat, these mathematical tools will conti
 
 # References
 
-- DRDO – Electromagnetic and Aerospace Systems
-- BEL – Defence Electronics Research
-- IEEE Xplore – Potential Theory in Military Systems
-- Ministry of Defence – EM Shielding Specifications
+- DRDO – Electromagnetic and Aerospace Systems https://drdo.gov.in/?utm_source=chatgpt.com
+- BEL – Defence Electronics Research https://bel-india.in/homepage/?utm_source=chatgpt.com
+- IEEE Xplore – Potential Theory in Military Systems https://www.ieee-tems.org/call-for-papers-military-and-government-systems-applications/?utm_source=chatgpt.com
+- Ministry of Defence – EM Shielding Specifications https://www.defencexp.com/drdo-unveils-centre-for-electromagnetic-launch-technology/?utm_source=chatgpt.com
 - Griffiths – Electrodynamics
 - Simon Haykin – Communication Systems
