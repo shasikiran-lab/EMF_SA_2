@@ -63,6 +63,8 @@ Design insulation between electronic modules
 
 This ensures accurate target locking even in high-temperature ionized environments.
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/96035c51-5584-4948-ac82-7ed2c5cd961e" />
+
 ## b. Stealth Technology and Radar Cross-Section (RCS) Reduction
 
 Stealth platforms aim to reduce the amount of electromagnetic energy reflected back to enemy radar.
@@ -75,6 +77,9 @@ Remove sharp edges or discontinuities that increase scattering
 Optimize internal antenna placement to minimize leakage
 
 The design philosophy of aircraft like AMCA relies on potential-field simulations to maintain low RCS.
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b222b0d2-eb38-4505-a7b5-5552a095b045" />
+
 
 ## c. Electromagnetic Shielding and Hardening
 
@@ -91,6 +96,8 @@ Leakage points in metallic enclosures
 Safe zones for critical electronics
 
 Thus, systems remain functional during electronic warfare attacks.
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/7ba715e0-cc89-4b16-8ed1-eb5e9761c3bb" />
 
 ## d. Thermal Camouflage and Infrared Signature Reduction
 
@@ -109,6 +116,9 @@ Temperature control of UAVs
 Cooling of weapon electronics
 
 Heat distribution modelling helps keep military assets invisible to enemy thermal cameras.
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3eece301-5bb8-477d-85be-ae2fee03584a" />
+
 
 ## e. Antenna Design for Secure Military Communication
 
@@ -132,6 +142,8 @@ Battlefield radio networks like ASCON
 
 This ensures continuous communication even under jamming.
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/42681b62-e585-49b6-8a73-d1d67e9433bf" />
+
 ## f. Plasma Modelling and Hypersonic Flight Communication
 
 Hypersonic vehicles generate plasma that disrupts radio signals.
@@ -147,6 +159,8 @@ Improve antenna placement
 Reduce signal absorption during flight
 
 This is crucial for projects like DRDO HSTDV and future hypersonic missiles.
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8139a75d-6aca-4316-9b52-79ead6894264" />
 
 ## g. Ground Sensors, GPR and Mine Detection
 
