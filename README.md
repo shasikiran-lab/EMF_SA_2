@@ -196,17 +196,17 @@ This ensures radars perform efficiently in all weather conditions.
 
 # Future Scope 
 
-AI-enhanced potential solvers for radar and missile systems
+- AI-enhanced potential solvers for radar and missile systems
 
-Quantum radar field modelling using advanced potential theory
+- Quantum radar field modelling using advanced potential theory
 
-Electrostatic cloaking and next-gen stealth solutions
+- Electrostatic cloaking and next-gen stealth solutions
 
-Real-time EM mapping for autonomous drone swarms
+- Real-time EM mapping for autonomous drone swarms
 
-Hybrid thermal-electromagnetic modelling for multi-sensor platforms
+- Hybrid thermal-electromagnetic modelling for multi-sensor platforms
 
-Ultra-efficient satellite-to-drone power transmission fields
+- Ultra-efficient satellite-to-drone power transmission fields
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1201cb63-d3d0-40e5-8106-d3f3e21afdf6" />
 
