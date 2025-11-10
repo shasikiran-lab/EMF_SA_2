@@ -176,6 +176,9 @@ Improve detection algorithms
 
 Used in anti-IED operations and border security.
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b22101fe-2149-4e44-ad7c-4c1170155740" />
+
+
 ## h. Radome and Antenna Housing Design
 
 Radomes protect radar and communication antennas from weather.
@@ -188,6 +191,8 @@ Field distortion due to materials
 Reflection minimization
 
 This ensures radars perform efficiently in all weather conditions.
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d6b14c2e-0389-4146-b8af-6312b2299ae0" />
 
 # Future Scope 
 
@@ -202,6 +207,8 @@ Real-time EM mapping for autonomous drone swarms
 Hybrid thermal-electromagnetic modelling for multi-sensor platforms
 
 Ultra-efficient satellite-to-drone power transmission fields
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1201cb63-d3d0-40e5-8106-d3f3e21afdf6" />
 
 # Conclusion
 
