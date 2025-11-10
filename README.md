@@ -13,6 +13,7 @@ In empty regions (Laplace)
 In regions with charge or heat sources (Poisson)
 
 These equations help engineers in DRDO, BEL and ISRO design reliable and efficient defence systems by predicting field behavior well before hardware is built.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/889b3635-914b-415c-8202-7ee060b71038" />
 
 # Theoretical Overview
 ## Laplace’s Equation
